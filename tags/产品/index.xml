@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>产品 on 修行中</title>
+    <link>http://blog.panxl.cn/tags/%E4%BA%A7%E5%93%81/</link>
+    <description>Recent content in 产品 on 修行中</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 01 Sep 2019 22:17:30 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.panxl.cn/tags/%E4%BA%A7%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ToB和ToC的差别讨论</title>
+      <link>http://blog.panxl.cn/post/post/tob%E5%92%8Ctoc%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B7%AE%E5%88%AB/</link>
+      <pubDate>Sun, 01 Sep 2019 22:17:30 +0800</pubDate>
+      
+      <guid>http://blog.panxl.cn/post/post/tob%E5%92%8Ctoc%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B7%AE%E5%88%AB/</guid>
+      <description>&lt;p&gt;ToB和ToC产品开发方面的一些差异&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ToB和ToC的差别讨论</title>
+      <link>http://blog.panxl.cn/post/tob%E5%92%8Ctoc%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B7%AE%E5%88%AB/</link>
+      <pubDate>Sun, 01 Sep 2019 22:17:30 +0800</pubDate>
+      
+      <guid>http://blog.panxl.cn/post/tob%E5%92%8Ctoc%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B7%AE%E5%88%AB/</guid>
+      <description>&lt;p&gt;ToB和ToC产品开发方面的一些差异&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
