@@ -12,39 +12,12 @@
     
     
     <item>
-      <title>PHP数据导出功能优化案例</title>
-      <link>http://panxl6.github.io/post/classical-export-by-php/</link>
-      <pubDate>Sun, 01 Sep 2019 22:17:30 +0800</pubDate>
-      
-      <guid>http://panxl6.github.io/post/classical-export-by-php/</guid>
-      <description>&lt;p&gt;本文以一个Excel表单导出功能的演化路线为示例，分享导出任务的通用模式、Reactor和Worker分离的思路等经验。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>PHP是世界上最好语言吗？</title>
       <link>http://panxl6.github.io/post/php-why-or-why-not/</link>
       <pubDate>Sun, 01 Sep 2019 22:17:30 +0800</pubDate>
       
       <guid>http://panxl6.github.io/post/php-why-or-why-not/</guid>
       <description>&lt;p&gt;PHP大有跌出2019年编程语言Top 10的趋势。廉颇老矣，尚能饭否？&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>ubuntu下安装HHVM</title>
-      <link>http://panxl6.github.io/post/hhvm-installation/</link>
-      <pubDate>Sun, 01 Sep 2019 22:17:30 +0800</pubDate>
-      
-      <guid>http://panxl6.github.io/post/hhvm-installation/</guid>
-      <description>&lt;p&gt;为了更深入的理解PHP7，安装HHVM并学一下Hack语言。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>代码重定向</title>
-      <link>http://panxl6.github.io/post/code-redirect/</link>
-      <pubDate>Sun, 01 Sep 2019 22:17:30 +0800</pubDate>
-      
-      <guid>http://panxl6.github.io/post/code-redirect/</guid>
-      <description>&lt;p&gt;代码迁移和维护的一些技巧。&lt;/p&gt;</description>
     </item>
     
     <item>
