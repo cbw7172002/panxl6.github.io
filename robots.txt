@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://panxl6.github.io/sitemap.xml
+Sitemap: https://www.panxl.cn/sitemap.xml
